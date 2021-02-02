@@ -8,7 +8,7 @@ I am not responsible for bricked devices or dead SD cards. YOU choose to install
 
 ## Compatibility
 <ol type="1">
-<li>Garunteed compatibility with 720x1280 devices. I have not tried on other resolutions, but you may try.</li>
+<li>Guarunteed compatibility with 720x1280 devices. I have not tried on other resolutions, but you may try.</li>
 <li>Magisk 20.4+</li>
 <li>Android 5.1+</li>
 </ol>
@@ -29,7 +29,7 @@ OR<br/>
 <li>Download the <a href="https://github.com/dhruvkrishnavaid/Cuts-2-Bootanimation-for-Magisk/raw/master/system/media/bootanimation.zip" target="_blank">bootanimation.zip</a>.</li>
 <li>Use a root explorer and navigate to /system/media on your device.</li>
 <li>Paste the bootanimation.zip which you have already downloaded in Step 1.</li>
-<li>Set the permissions to rw--r--r (chmod 644)</li>
+<li>Set the permissions to rw--r--r (chmod 644).</li>
 <li>Reboot and enjoy!</li>
 </ul>
 
