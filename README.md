@@ -1,0 +1,28 @@
+# Systemless Cuts 2 Bootanimation for Magisk
+<p align="center">
+<img src="https://www.gizmochina.com/wp-content/uploads/2019/08/Cuts-2-Bootanimation.gif" alt="Cuts-2-Bootanimation.gif">
+</p>
+
+## Prior notice
+I am not responsible for bricked devices or dead SD cards. YOU choose to install this module. If you will blame me, I will laugh at you. BTW, don't forget to take a TWRP backup before flashing, so that you will be in the safe zone.
+
+## Compatibility
+<ol type="1">
+<li>Garunteed compatibility with 720x1280 devices. I have not tried on other resolutions, but you may try.</li>
+<li>Magisk 20.4+</li>
+<li>Android 5.1+</li>
+</ol>
+
+## Incompatibility
+<ol type="1">
+<li>Samsung Devices: Samsung ROMs use a proprietary .QMG format for their boot animations. The bootanimations in this thread will not work with your phone. See <a href="https://forum.xda-developers.com/showpost.php?p=78906639&postcount=192" target="_blank">here</a> for a converting solution.</li>
+<li>If NOT running a Google/AOSP/LineageOS based ROM, especially if your ROM is heavily skinned by your manufacturer.</li>
+<li>If you are using any other bootanimation changing Magisk module, first remove it, then flash this one.</li>
+</ol>
+
+## Credits
+Dhruv Krishna Vaid - for making this module<br />
+John Wu - for developing Magisk<br />
+The one who created this animation
+
+## Happy flashing!
