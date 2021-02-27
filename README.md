@@ -22,7 +22,7 @@ I am not responsible for bricked devices or dead SD cards. YOU choose to install
 
 ## Installation
 <ul>
-<li>Download <a href="https://github.com/dhruvkrishnavaid/Cuts-2-Bootanimation-for-Magisk/archive/master.zip" target="_blank">this module</a> and flash through Magisk Manager</li>
+<li>Download <a href="https://github.com/dhruvkrishnavaid/Cuts-2-Bootanimation-for-Magisk/archive/master.zip" target="_blank">this module</a> and flash through Magisk App</li>
 OR<br/>
 <li>Manual Installation</li>
 <ol type="1">
